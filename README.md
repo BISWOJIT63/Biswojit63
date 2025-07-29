@@ -1,39 +1,66 @@
-<h1 align="center">Hi 👋, I'm Biswojit Sahoo</h1>
-<h3 align="center">BCA Student | Intern @ Zidio Development | Full-stack Developer in Progress</h3>
+<h1 align="center">Hey 👋, I'm Biswojit Sahoo</h1>
+<h3 align="center">🚀 BCA Student | Java Backend Developer | DSA Enthusiast | Intern @ Zidio Development</h3>
+
+<p align="center">
+  <a href="mailto:biswojitsahoo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/BISWOJIT63"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/biswojit-sahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-🌱 I’m currently a **BCA student at Berhampur University**, learning by building real-world applications.  
-💼 I'm currently interning at **Zidio Development**, sharpening my skills with practical projects.  
-🛠️ I’m building **EaseBnB** – a full-stack CRUD travel app using Node.js, Express, MongoDB & EJS.
+### 👨‍💻 About Me
+
+- 🎓 BCA Student @ Berhampur University  
+- 💼 Currently an **Intern at Zidio Development**
+- 📘 Passionate about **Java Backend, Web Dev, and Data Structures**
+- 💡 Always learning: **MERN Stack**, **System Design**, and **Open Source**
+
+---
+
+### 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BISWOJIT63&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BISWOJIT63&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BISWOJIT63&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: [biswojitsahoo.dev@gmail.com](mailto:biswojitsahoo.dev@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/biswojit-sahoo](https://linkedin.com/in/biswojit-sahoo)
+- 🌐 Portfolio: Coming soon...
 
 ---
 
 ### 🧠 Tech Stack & Tools
 
-- 💻 Languages: `Java`, `JavaScript`
-- 🌐 Backend: `Node.js`, `Express.js`, `MongoDB`
-- 🎨 Frontend: `EJS`, `HTML`, `CSS`, `Bootstrap`
+- 💻 Languages: `Java`, `JavaScript`, `Python`
+- 🌐 Backend: `Node.js`, `Express.js`, `MongoDB`,
+- 🎨 Frontend: `EJS`, `HTML`, `CSS`, `Bootstrap`, `React` , `Tailwind`
 - 🛠️ Tools: `Git`, `GitHub`, `VS Code`, `Postman`
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswojitsahoo&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswojitsahoo&theme=tokyonight" width="48%" />
-</p>
-
----
-
-### 🧩 Currently Learning
-
-- 📚 Data Structures & Algorithms (DSA)
-- 📦 REST API design & clean backend architecture
-- 🧪 Testing & Debugging skills
-
----
 
 ### 🚀 Projects
 
@@ -49,20 +76,3 @@
 ---
 
 > “Code what you dream. Learn like a student. Build like a pro.” – *Biswojit*
-
-
-
-<!--
-**BISWOJIT63/Biswojit63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
