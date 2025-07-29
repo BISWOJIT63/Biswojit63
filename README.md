@@ -2,9 +2,9 @@
 <h3 align="center">🚀 BCA Student | Java Backend Developer | DSA Enthusiast | Intern @ Zidio Development</h3>
 
 <p align="center">
-  <a href="mailto:biswojitsahoo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sahoobiswojit165v@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/BISWOJIT63"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/biswojit-sahoo"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/biswojit-sahoo63/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,8 +46,8 @@
 
 ### 📬 Contact Me
 
-- 📧 Email: [biswojitsahoo.dev@gmail.com](mailto:biswojitsahoo.dev@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/biswojit-sahoo](https://linkedin.com/in/biswojit-sahoo)
+- 📧 Email: [biswojitsahoo.dev@gmail.com](mailto:sahoobiswojit165@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/biswojit-sahoo](https://github.com/BISWOJIT63)
 - 🌐 Portfolio: Coming soon...
 
 ---
