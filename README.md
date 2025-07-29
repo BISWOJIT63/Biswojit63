@@ -44,7 +44,7 @@
 ### 📬 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/biswojit-sahoo63?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💌 [Email](sahoobiswojit165@gmail.com) ki 
+- 💌 [Email](sahoobiswojit165@gmail.com)
 
 ---
 
