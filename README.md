@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Biswojit Sahoo</h1>
-<h3 align="center">🚀 BCA Student | Java Backend Developer | DSA Enthusiast | Intern @ Zidio Development</h3>
+<h3 align="center">🚀 BCA Student | MERN Full stack Developer | DSA Enthusiast | Intern @ Zidio Development</h3>
 
 <p align="center">
   <a href="mailto:sahoobiswojit165v@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,7 +13,7 @@
 
 - 🎓 BCA Student @ Berhampur University  
 - 💼 Currently an **Intern at Zidio Development**
-- 📘 Passionate about **Java Backend, Web Dev, and Data Structures**
+- 📘 Passionate about **.NET Backend, Web Dev, and Data Structures**
 - 💡 Always learning: **MERN Stack**, **System Design**, and **Open Source**
 
 ---
