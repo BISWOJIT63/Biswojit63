@@ -49,7 +49,7 @@
 
 - 📧 Email: [biswojitsahoo.dev@gmail.com](mailto:sahoobiswojit165@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/biswojit-sahoo](https://github.com/BISWOJIT63)
-- 🌐 Portfolio: Coming soon...
+- 🌐 Portfolio: https://biswojit63.github.io/portfolio/
 
 ---
 
